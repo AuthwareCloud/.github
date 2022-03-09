@@ -8,7 +8,7 @@ We're building a **secure, modern and scalable authentication** solution for you
 ### We 💖 open-source
 That's why all of our applications that can be open-source, are open-source. From our wrappers &amp; examples to miscellaneous software that we may use internally or externally. Here's some of our open-source software, that we've licensed under the MIT license:
 
-- Our [Discord bot](https://github.com/AuthwareCloud/AuthwareBot) is present in our community Discord server and provides us moderation and many other neat tools;
+- Our [Discord bot](https://github.com/AuthwareCloud/discord-bot) is present in our community Discord server and provides us moderation and many other neat tools;
 - All of our wrappers are fully open-source, find our [C# wrapper](https://github.com/AuthwareCloud/dotnet-sdk) and [Python wrapper](https://github.com/AuthwareCloud/python-sdk) in our repositories (or the sneaky links)
 
 ### 🖥️ What we use to build our systems
